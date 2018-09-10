@@ -5,6 +5,10 @@
         <classes>
             <class name="Room5SanityTest">
                 <methods>
+                    <include name="searchLocationTest" />
+                    <include name="fillContactFormTest" />
+                    <include name="subsribeToNewsletterTest" />
+                    <include name="changeCountryNavigationTest" />
                     <include name="cookieContentTest" />
                 </methods>
             </class>
